@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Air Distance</string>
+
+    <string name="instructions">Click to add markers, Hold &amp; drag to change marker position</string>
+    <string name="distance_msg">Distance : %1$.2f %2$s</string>
+
+    <string name="source">Source</string>
+    <string name="destination">Destination</string>
+
+</resources>
